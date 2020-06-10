@@ -1,0 +1,3 @@
+1 24 FileClient.manifest
+#include <windows.h>
+CREATEPROCESS_MANIFEST_RESOURCE_ID RT_MANIFEST "FileClient.manifest"
