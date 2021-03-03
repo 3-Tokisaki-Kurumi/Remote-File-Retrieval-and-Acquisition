@@ -1,0 +1,32 @@
+# 构建目录
+build/
+cmake-build-*/
+out/
+Debug/
+Release/
+x64/
+x86/
+
+# IDE 配置
+.vscode/
+.idea/
+*.user
+*.suo
+
+# 编译输出
+*.exe
+*.obj
+*.o
+*.lib
+*.dll
+*.res
+
+# CMake 生成文件
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# 日志
+*.log
