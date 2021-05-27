@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.15)  # 最低 CMake 版本
+cmake_minimum_required(VERSION 3.20)  # 最低 CMake 版本
 project(FileServer)                   # 项目名称
 
 set(CMAKE_C_STANDARD 11)              # 使用 C11 标准
