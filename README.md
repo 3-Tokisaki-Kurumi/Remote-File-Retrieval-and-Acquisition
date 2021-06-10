@@ -33,7 +33,7 @@ Remote file transfer and retrieval system (client-server)
 ## 环境要求
 
 - Windows 10/11
-- CMake 3.15+
+- CMake 3.20+
 - MinGW-w64（推荐GCC 12.2.0）
 - Winsock2 支持
 
