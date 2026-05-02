@@ -8,6 +8,11 @@
 
 ***
 
+**🌍 Language / 语言:**
+[English](README.en.md) | [简体中文](README.md)
+
+***
+
 ## 📚 目录
 
 - [系统架构](#architecture)
@@ -426,5 +431,5 @@ netsh advfirewall firewall add rule name="FileTransfer-In" ^
 
 ***
 
-**文档最后更新日期**: 2026年4月10日\
+**文档最后更新日期**: 2026年5月1日\
 **联系方式**: 请通过 GitHub Issues 提交问题和反馈
